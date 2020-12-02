@@ -2,7 +2,6 @@
 
 This is a simple iOS login screen written in Swift 5. It has the classic email & password format.
 
-![](Images/IMG_0455.jpeg)
 
 # Prerequisites
 
